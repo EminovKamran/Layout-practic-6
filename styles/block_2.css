@@ -1,0 +1,58 @@
+.block_2 {
+    display: flex;
+    margin-top: 352px;
+    justify-content: center;
+}
+.block_2 img {
+    margin-right: 150px;
+}
+.block_2 .abouts_us_name {
+    font-family: NotoSerifExtraBold, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    color: #2C2C2C;
+    margin-bottom: 82px;
+}
+.block_2 .abouts_us_description {
+    font-family: NotoSerifSemiBold, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.block_2 .abouts_us_description_1 {
+    font-family: NotoSerifSemiBold, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 62px;
+    margin-top: 53px;
+}
+.block_2 .abouts_us_description_2 {
+    font-family: NotoSerifSemiBold, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 52px;
+}
+.block_2 .abouts_us_article {
+    font-family: ProductSansRegular, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #A79997;
+    margin-bottom: 50px;
+}
+.block_2 .border {
+    border-bottom: 1px solid #F1E0DD;
+}
+.block_2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+

@@ -1,0 +1,80 @@
+@import "header.css";
+@import "section.css";
+@import "aside.css";
+@import "block_1.css";
+@import "block_2.css";
+@import "block_3.css";
+@import "block_4.css";
+@import "block_5.css";
+@import "footer.css";
+
+@font-face {
+    font-family: 'ProductSansRegular';
+    src: url('../fonts/ProductSansRegular.eot');
+    src: url('../fonts/ProductSansRegular.eot') format('embedded-opentype'),
+    url('../fonts/ProductSansRegular.woff2') format('woff2'),
+    url('../fonts/ProductSansRegular.woff') format('woff'),
+    url('../fonts/ProductSansRegular.ttf') format('truetype'),
+    url('../fonts/ProductSansRegular.svg#ProductSansRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'ProductSansBold';
+    src: url('../fonts/ProductSansBold.eot');
+    src: url('../fonts/ProductSansBold.eot') format('embedded-opentype'),
+    url('../fonts/ProductSansBold.woff2') format('woff2'),
+    url('../fonts/ProductSansBold.woff') format('woff'),
+    url('../fonts/ProductSansBold.ttf') format('truetype'),
+    url('../fonts/ProductSansBold.svg#ProductSansBold') format('svg');
+}
+
+@font-face {
+    font-family: 'NotoSerifRegular';
+    src: url('../fonts/NotoSerifRegular.eot');
+    src: url('../fonts/NotoSerifRegular.eot') format('embedded-opentype'),
+    url('../fonts/NotoSerifRegular.woff2') format('woff2'),
+    url('../fonts/NotoSerifRegular.woff') format('woff'),
+    url('../fonts/NotoSerifRegular.ttf') format('truetype'),
+    url('../fonts/NotoSerifRegular.svg#NotoSerifRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'NotoSerifMedium';
+    src: url('../fonts/NotoSerifMedium.eot');
+    src: url('../fonts/NotoSerifMedium.eot') format('embedded-opentype'),
+    url('../fonts/NotoSerifMedium.woff2') format('woff2'),
+    url('../fonts/NotoSerifMedium.woff') format('woff'),
+    url('../fonts/NotoSerifMedium.ttf') format('truetype'),
+    url('../fonts/NotoSerifMedium.svg#NotoSerifMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'NotoSerifExtraBold';
+    src: url('../fonts/NotoSerifExtraBold.eot');
+    src: url('../fonts/NotoSerifExtraBold.eot') format('embedded-opentype'),
+    url('../fonts/NotoSerifExtraBold.woff2') format('woff2'),
+    url('../fonts/NotoSerifExtraBold.woff') format('woff'),
+    url('../fonts/NotoSerifExtraBold.ttf') format('truetype'),
+    url('../fonts/NotoSerifExtraBold.svg#NotoSerifExtraBold') format('svg');
+}
+
+@font-face {
+    font-family: 'NotoSerifBold';
+    src: url('../fonts/NotoSerifBold.eot');
+    src: url('../fonts/NotoSerifBold.eot') format('embedded-opentype'),
+    url('../fonts/NotoSerifBold.woff2') format('woff2'),
+    url('../fonts/NotoSerifBold.woff') format('woff'),
+    url('../fonts/NotoSerifBold.ttf') format('truetype'),
+    url('../fonts/NotoSerifBold.svg#NotoSerifBold') format('svg');
+}
+
+@font-face {
+    font-family: 'NotoSerifSemiBold';
+    src: url('../fonts/NotoSerifSemiBold.eot');
+    src: url('../fonts/NotoSerifSemiBold.eot') format('embedded-opentype'),
+    url('../fonts/NotoSerifSemiBold.woff2') format('woff2'),
+    url('../fonts/NotoSerifSemiBold.woff') format('woff'),
+    url('../fonts/NotoSerifSemiBold.ttf') format('truetype'),
+    url('../fonts/NotoSerifSemiBold.svg#NotoSerifSemiBold') format('svg');
+}
+

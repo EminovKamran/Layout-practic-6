@@ -1,0 +1,36 @@
+aside {
+    display: grid;
+    grid-template-columns: 326px 326px 326px 326px;
+    column-gap: 26px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 237px;
+    text-align: center;
+}
+aside ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+aside .works_name {
+    font-family: NotoSerifBold, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #2C2C2C;
+    margin-top: 10px;
+}
+aside .works_description {
+    font-family: ProductSansRegular,sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #A79997;
+    margin-top: 20px;
+}
+aside div {
+    background: #F8F8F8;
+}
+aside img {
+    padding: 44px 113px 24px 113px;
+}

@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0 35px 0;
+    align-items: center;
+}
+header .nav_menu ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: NotoSerifRegular, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #2C2C2C;
+}
+header .nav_menu ul li {
+    margin-left: 70px;
+}
+header .nav_reg ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: NotoSerifRegular, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #2C2C2C;
+}
+header .nav_reg ul li {
+    margin-left: 21px;
+}

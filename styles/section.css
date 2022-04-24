@@ -1,0 +1,55 @@
+section .fon_page img {
+    position: relative;
+    width: 100%;
+}
+section .fon_page h2 {
+    position: absolute;
+    top: 378px;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+section .fon_page h1 {
+    position: absolute;
+    top: 490px;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+section .fon_page h3 {
+    position: absolute;
+    top: 674px;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+section .fon_page h2 span {
+    font-family: NotoSerifBold, sans-serif;
+    font-size: 84px;
+    font-style: normal;
+    font-weight: 700;
+    color: #2C2C2C;
+    padding-left: 135px;
+}
+section .fon_page h1 span {
+    font-family: NotoSerifBold, sans-serif;
+    font-size: 84px;
+    font-style: normal;
+    font-weight: 700;
+    color: #2C2C2C;
+    padding-left: 135px;
+}
+section .fon_page h3 span {
+    font-family: NotoSerifMedium, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 135px;
+    background: #FF715B;
+    display: inline;
+    padding: 18px 37px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+.block_5 .block_box_1 ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.block_5 {
+    margin-top: 200px;
+}
+.block_5 .box_2 img {
+    position: absolute;
+    margin-top: -554px;
+}
+.block_5 .box_1 {
+    position: relative;
+    width: 100%;
+}
+.block_5 .box_1 .block_box_1 {
+    position: absolute;
+    top: 333px;
+}
+.block_5 .box_1 .block_box {
+    position: absolute;
+    top: 165px;
+    font-family: 'NotoSerifExtraBold', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    color: #2C2C2C;
+    margin-left: 134px;
+}
+.block_5 .box_1 .block_box_1 .block_box_1_1 {
+    margin-right: 45px;
+    margin-left: 134px;
+}

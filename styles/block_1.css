@@ -1,0 +1,45 @@
+.block_1 {
+    display: flex;
+    padding-top: 344px;
+}
+.block_1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.block_1 .box_description_name {
+    font-family: NotoSerifExtraBold, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    color: #2C2C2C;
+    padding-bottom: 40px;
+}
+.block_1 .box_description_name span {
+    color: #FF715B;
+}
+.block_1 .box_article {
+    font-family: ProductSansRegular, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #A79997;
+    padding-bottom: 60px;
+}
+.block_1 .box_button {
+    display: inline;
+    font-family: NotoSerifMedium, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    background: #FF715B;
+    padding: 20px 34px;
+}
+.block_1 .box_description {
+    padding-right: 76px;
+    padding-top: 15px;
+}
+.block_1 .box_image {
+    padding-right: 30px;
+}
